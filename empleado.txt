@@ -1,0 +1,8 @@
+7
+1504, Miguel, Casa 1
+1712, Paolo, Casa 2
+1643, Claudia, Casa 3
+1723, Manuel, Casa 4
+1659, Paul, Casa 5
+1712, Alexis, Casa 6
+1723, Mirella, Casa 7
